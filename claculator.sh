@@ -1,3 +1,4 @@
+#calc
 while true
 do
 echo "Enter numbers 2 numbers="
