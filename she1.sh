@@ -1,6 +1,6 @@
-a=`echo $1|tr "/" " "`
-for x in $a
-do
-mkdir $x
-cd $x
-done
+A=`ECHO $1|TR "/" " "`
+FOR X IN $A
+DO
+MKDIR $X
+CD $X
+DONE
